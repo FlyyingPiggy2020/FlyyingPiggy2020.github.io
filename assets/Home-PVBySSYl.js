@@ -1,0 +1,1 @@
+import{_ as t,c as o,w as e,o as r,a,b as c}from"./index-D2vKdpno.js";import{V as n,a as s,b as l}from"./VContainer-B33N7Wew.js";const _={};function f(u,d){return r(),o(n,null,{default:e(()=>[a(l,null,{default:e(()=>[a(s,null,{default:e(()=>[c(" Home ")]),_:1})]),_:1})]),_:1})}const i=t(_,[["render",f]]);export{i as default};
